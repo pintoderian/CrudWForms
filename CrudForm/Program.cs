@@ -16,7 +16,7 @@ namespace CrudForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormEdad());
+            Application.Run(new FormPrincipal());
         }
     }
 }

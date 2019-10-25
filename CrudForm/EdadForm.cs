@@ -58,5 +58,10 @@ namespace CrudForm
                 this.Close();
             }
         }
+
+        private void EdadForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -70,6 +70,7 @@
             this.Controls.Add(this.label1);
             this.Name = "EdadForm";
             this.Text = "EdadForm";
+            this.Load += new System.EventHandler(this.EdadForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
