@@ -1,0 +1,16 @@
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\CrudForm.exe.config
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\CrudForm.exe
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\CrudForm.pdb
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\EntityFramework.dll
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\EntityFramework.xml
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.csprojAssemblyReference.cache
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.FormEdad.resources
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.Properties.Resources.resources
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.GenerateResource.cache
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.CoreCompileInputs.cache
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.CopyComplete
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.exe
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.pdb
+C:\Users\pinto_wsiuh21\source\repos\CrudForm\CrudForm\obj\Debug\CrudForm.EdadForm.resources
